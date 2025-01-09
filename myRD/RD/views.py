@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from rest_framework import viewsets
-from myRD.RD.models import Item
-from myRD.RD.serializers import ItemSerializer
+from RD.models import Item
+from RD.serializers import ItemSerializer
 
 # Create your views here.
 
